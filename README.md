@@ -26,15 +26,17 @@ These badges represent technologies listed in my CV; they are skills indicators,
 
 **Cloud and platforms**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MicroK8s](https://img.shields.io/badge/MicroK8s-E95420?style=flat-square&logo=canonical&logoColor=white) ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white) ![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
 
 **Frameworks and data**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **AI, delivery and observability**
 
 ![OpenAI workflows](https://img.shields.io/badge/OpenAI%20workflows-412991?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+
+![Grafana Alloy](https://img.shields.io/badge/Grafana_Alloy-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 REST · GraphQL · OAuth2 · OIDC · SSO · MCP · ETL · NoSQL · CI/CD · release governance · production reliability
 
@@ -52,6 +54,10 @@ REST · GraphQL · OAuth2 · OIDC · SSO · MCP · ETL · NoSQL · CI/CD · rele
 ## Education
 
 **Bachelor of Software Engineering (Honours)** — University of Melbourne
+
+## GitHub achievements
+
+[![Pull Shark ×3](https://img.shields.io/badge/Pull_Shark-%C3%973-0969DA?style=flat-square&logo=github)](https://github.com/maldous?achievement=pull-shark&tab=achievements) [![Pair Extraordinaire ×3](https://img.shields.io/badge/Pair_Extraordinaire-%C3%973-8250DF?style=flat-square&logo=github)](https://github.com/maldous?achievement=pair-extraordinaire&tab=achievements) [![Quickdraw](https://img.shields.io/badge/GitHub-Quickdraw-BF8700?style=flat-square&logo=github)](https://github.com/maldous?achievement=quickdraw&tab=achievements)
 
 ## Selected projects
 
