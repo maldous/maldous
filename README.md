@@ -18,8 +18,6 @@ Senior engineer and technical lead delivering enterprise software, cloud platfor
 
 ## Technology experience
 
-These badges represent technologies listed in my CV; they are skills indicators, not vendor certifications.
-
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
