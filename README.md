@@ -22,6 +22,8 @@ Senior engineer and technical lead delivering enterprise software, cloud platfor
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
 
+My language experience spans **TypeScript, JavaScript, Python, PHP, C, C++, Perl, Go, Bash/shell scripting, PowerShell, SQL, Java, BASIC, Pascal, Assembly (ASM), Pike, Prolog, PL/SQL, VBScript, Visual Basic, Swift and Kotlin**. Markup and transformation languages include **HTML, CSS, XML, XSL, XSLT, XSL-FO, WML and XUL**. This covers current and earlier work; depth and recency vary by technology.
+
 **Cloud and platforms**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MicroK8s](https://img.shields.io/badge/MicroK8s-E95420?style=flat-square&logo=canonical&logoColor=white) ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white) ![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
@@ -37,6 +39,25 @@ Senior engineer and technical lead delivering enterprise software, cloud platfor
 ![Grafana Alloy](https://img.shields.io/badge/Grafana_Alloy-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 REST · GraphQL · OAuth2 · OIDC · SSO · MCP · ETL · NoSQL · CI/CD · release governance · production reliability
+
+<details>
+<summary><strong>Full technology background</strong></summary>
+
+My background also includes the following technologies and practices across current and earlier roles.
+
+- **Application frameworks and tooling:** Node.js, Express.js, Laravel, Django, Flask, Ruby on Rails, Spring Boot, React, Angular, Vue.js, React Native, Flutter, Vite, Nx, Capacitor, wxWidgets, CGI and CORBA.
+- **Cloud, containers and infrastructure:** AWS, Azure, Google Cloud, Amazon EKS, MicroK8s, Docker, Kubernetes, Vagrant, VMware, OpenStack, AWS Lambda, Azure Functions, Amazon S3, Google Cloud Storage, Azure Blob Storage, Terraform, Ansible, cPanel, Istio, Knative and Envoy.
+- **Databases, analytics and geospatial:** SQL, PostgreSQL, MySQL, Oracle, NoSQL, ClickHouse, Pandas, NumPy, PostGIS, QGIS, GeoPandas, Hadoop, Spark, Apache Kafka, Amazon Redshift, Snowflake, Google BigQuery, Tableau, Power BI and D3.js.
+- **AI and machine learning:** OpenAI workflows, LLM integration, agentic systems, retrieval-augmented generation (RAG), model routing and evaluation, TensorFlow, PyTorch, scikit-learn, NLTK, spaCy, BERT, predictive modelling, anomaly detection, graph/network analysis, neural networks, genetic algorithms and Bayesian methods.
+- **APIs, identity and security:** REST, GraphQL, MCP, OAuth2, OIDC, SSO, OTP, Keycloak, multi-tenant identity, API integration, firewalls, VPNs, network-security detection and security review.
+- **Delivery, testing and observability:** Git, SVN, GitHub, GitHub Actions, Azure DevOps, Jenkins, CI/CD, release automation, automated and accessibility testing, Jest, JUnit, Selenium, Playwright, OpenTelemetry, Grafana, Grafana Alloy, Sentry, Splunk, structured logging, tracing, incident response and production diagnostics.
+- **Data and engineering practices:** ETL and data pipelines, data modelling, high-volume telemetry, business intelligence, enterprise/solution/platform/integration architecture, microservices, distributed systems, performance optimisation, production reliability, Agile, Scrum, Kanban, ITIL, TOGAF, TM Forum/eTOM and ISO 27001-aligned delivery. Data-governance tools include Collibra, Informatica and IBM InfoSphere; interface-design tools include Adobe XD, Sketch and Figma.
+- **Operating systems and administration:** Linux, Unix, Solaris/SunOS, FreeBSD, OpenBSD, NetBSD, Windows, macOS/classic Mac OS, Android, HP-UX, IRIX, Ultrix, AmigaOS and MS-DOS; system administration, shell tooling, SSH, networking, NFS and PC-NFS.
+- **Networking, telecommunications and media:** TCP/IP, WAN, SDN, NFVi, DWDM, CDN, IPTV, DVB/DTV, HFC, DOCSIS/Euro-DOCSIS, CMTS, VoIP, GSM, SS7, X.25, SMS, MMS, WAP, HTTP, RTSP, RTMP, HLS, adaptive-bitrate streaming, SMTP, FTP, SILC, VOD and set-top-box systems.
+- **Enterprise storage and media platforms:** NetApp, EMC, Symantec NetBackup, Cisco Content Delivery System, Windows Media Services, IIS, Apache, Adobe Flash Media Server, OpenTV, Liberate, Nortel CS2K and Remedy Action Request System.
+- **Earlier tools and vendor environments:** Turbo C, Turbo Pascal, Flash, SGI and Sun systems; Cisco, Juniper, Avalanche, Tandberg, Scientific Atlanta, Motorola, Nagra, nCube, SeaChange, Philips, Arris, AudioCodes, Nortel, Siemens, Spirent, Broadbus and Spectrum. Technical analysis also included Microsoft Excel and Atlassian application environments.
+
+</details>
 
 ## Career
 
