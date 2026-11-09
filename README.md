@@ -1,6 +1,6 @@
 # Matthew Aldous · B.Eng (Hons)
 
-**Technical Lead · Cloud Engineering · AI & Automation · DevOps**  
+**Technical Lead · Cloud Engineering · AI & Automation · FullStack**  
 Melbourne, Australia
 
 Senior engineer and technical lead delivering enterprise software, cloud platforms and automation. My work spans education, FinTech, customer data, telecommunications, gaming networks and media delivery — connecting architecture with reliable implementation and operations.
