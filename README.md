@@ -94,6 +94,12 @@ Senior engineer and technical lead delivering enterprise software, cloud platfor
 
 [![Pull Shark ×3](https://img.shields.io/badge/Pull_Shark-%C3%973-0969DA?style=flat-square&logo=github)](https://github.com/maldous?achievement=pull-shark&tab=achievements) [![Pair Extraordinaire ×3](https://img.shields.io/badge/Pair_Extraordinaire-%C3%973-8250DF?style=flat-square&logo=github)](https://github.com/maldous?achievement=pair-extraordinaire&tab=achievements) [![Quickdraw](https://img.shields.io/badge/GitHub-Quickdraw-BF8700?style=flat-square&logo=github)](https://github.com/maldous?achievement=quickdraw&tab=achievements)
 
+## Project techniques and formats
+
+Techniques and formats represented in my [current and archived projects](https://aldous.info/#work).
+
+[![Secrets management](https://img.shields.io/badge/Secrets%20management-475569?style=flat-square)](https://aldous.info/#circular-quay) [![Simulation](https://img.shields.io/badge/Simulation-475569?style=flat-square)](https://aldous.info/#cadle) [![Interactive artwork](https://img.shields.io/badge/Interactive%20artwork-475569?style=flat-square)](https://aldous.info/#four-tone-swarm) [![Animation](https://img.shields.io/badge/Animation-475569?style=flat-square)](https://aldous.info/#four-tone-swarm) [![Research tooling](https://img.shields.io/badge/Research%20tooling-475569?style=flat-square)](https://aldous.info/#neeg) [![Illustrated journal](https://img.shields.io/badge/Illustrated%20journal-475569?style=flat-square)](https://aldous.info/#cix-chronicle) [![Lossless compression](https://img.shields.io/badge/Lossless%20compression-475569?style=flat-square)](https://aldous.info/#cix-benchmarks) [![Design prototype](https://img.shields.io/badge/Design%20prototype-475569?style=flat-square)](https://aldous.info/#cix-design) [![Research documentation](https://img.shields.io/badge/Research%20documentation-475569?style=flat-square)](https://aldous.info/#cix-chronicle) [![Interactive learning](https://img.shields.io/badge/Interactive%20learning-475569?style=flat-square)](https://aldous.info/#cadle) [![Parallel computing](https://img.shields.io/badge/Parallel%20computing-475569?style=flat-square)](https://aldous.info/#gann) [![Roblox](https://img.shields.io/badge/Roblox-475569?style=flat-square)](https://aldous.info/#robox-gaming)
+
 ## Selected projects
 
 | Project | Focus |
